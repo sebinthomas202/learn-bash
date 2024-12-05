@@ -17,5 +17,5 @@ fi
 
 echo "
     You will need to purchase $PAINT_IN_GALLONS gallons 
-    of paint to cover $AREA square feet.
+    of paint to cover $AREA square feet. 
 ";
